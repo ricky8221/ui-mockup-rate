@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c9e95f0.css",
+    "main.js": "/static/js/main.5b0a5044.js",
+    "static/js/787.6019d4ee.chunk.js": "/static/js/787.6019d4ee.chunk.js",
+    "static/media/ups.png": "/static/media/ups.bceb546812184ed4f73d.png",
+    "static/media/fedex.png": "/static/media/fedex.13eadb16b0cd22ee53ed.png",
+    "index.html": "/index.html",
+    "main.5c9e95f0.css.map": "/static/css/main.5c9e95f0.css.map",
+    "main.5b0a5044.js.map": "/static/js/main.5b0a5044.js.map",
+    "787.6019d4ee.chunk.js.map": "/static/js/787.6019d4ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c9e95f0.css",
+    "static/js/main.5b0a5044.js"
+  ]
+}
