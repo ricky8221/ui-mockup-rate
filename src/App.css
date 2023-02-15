@@ -1,0 +1,28 @@
+.grid-container{
+  display: flex;
+  justify-content: center;
+}
+.card-container{
+  display: flex;
+  justify-content: center;
+}
+
+.classBody{
+  display: flex;
+  justify-content: center;
+}
+
+.upsLogo{
+  width: 20%;
+  padding-top: 10%;
+}
+
+.fedexLogo{
+  width: 50%;
+  /* padding-top: 8%; */
+}
+
+.dhlLogo{
+  width:50%;
+  /* padding-top: 0%; */
+}
